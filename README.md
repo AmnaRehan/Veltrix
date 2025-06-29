@@ -1,6 +1,6 @@
 # Veltrix - Product Store 🛒
 
-A full-stack e-commerce store built using **React**, **Express**, and **PostgreSQL**. The app supports product listing, API-based backend, and secure request handling with Arcjet.
+A full-stack e-commerce store built using **React**, **Express**, and **PostgreSQL**. The project supports product listing, API-based backend, and secure request handling with Arcjet.
 
 ## ⚙️ Tech Stack
 - Frontend: React (with Vite)
